@@ -17,4 +17,5 @@ I believe i h ave uploaded enough files for reproduction.
 
 ---
 ## Fallout Zine Page:
+/ignore
 <img width="1410" height="2000" alt="Demo" src="https://github.com/user-attachments/assets/fee72ee1-b26f-4af6-8bd8-e168af0fd4c7" />
